@@ -21,14 +21,14 @@ body {
 }
 
 #controls {
-    border: 1px lightslategray solid;
+    border: 1px #6e2570 solid;
     border-radius: 1rem;
     padding: 1.6rem;
 }
 
 .controls_wrapper > span {
     cursor: pointer;
-    color: lightslategray;
+    color: #6e2570;
     font-size: 6rem;
     padding: 2rem;
 }
